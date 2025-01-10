@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohamed/Documents/MLflow/mlruns/936200400489777151/e38c8ebcbc22403a8a6d5588397f3981/artifacts
+end_time: 1736453217856
+entry_point_name: ''
+experiment_id: '936200400489777151'
+lifecycle_stage: active
+run_id: e38c8ebcbc22403a8a6d5588397f3981
+run_name: Random Forest
+run_uuid: e38c8ebcbc22403a8a6d5588397f3981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736453212571
+status: 3
+tags: []
+user_id: mohamed

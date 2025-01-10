@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohamed/Documents/MLflow/mlruns/936200400489777151/be591b63548c407985afae0fc0e0f1df/artifacts
+end_time: 1736453251126
+entry_point_name: ''
+experiment_id: '936200400489777151'
+lifecycle_stage: active
+run_id: be591b63548c407985afae0fc0e0f1df
+run_name: Extra Trees
+run_uuid: be591b63548c407985afae0fc0e0f1df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736453245972
+status: 3
+tags: []
+user_id: mohamed

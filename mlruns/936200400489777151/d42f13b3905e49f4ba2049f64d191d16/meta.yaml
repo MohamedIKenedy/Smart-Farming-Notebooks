@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohamed/Documents/MLflow/mlruns/936200400489777151/d42f13b3905e49f4ba2049f64d191d16/artifacts
+end_time: 1736453227412
+entry_point_name: ''
+experiment_id: '936200400489777151'
+lifecycle_stage: active
+run_id: d42f13b3905e49f4ba2049f64d191d16
+run_name: AdaBoost
+run_uuid: d42f13b3905e49f4ba2049f64d191d16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736453222623
+status: 3
+tags: []
+user_id: mohamed

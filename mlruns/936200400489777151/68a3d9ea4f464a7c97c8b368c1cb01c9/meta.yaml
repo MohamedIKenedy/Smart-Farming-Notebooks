@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohamed/Documents/MLflow/mlruns/936200400489777151/68a3d9ea4f464a7c97c8b368c1cb01c9/artifacts
+end_time: 1736453222610
+entry_point_name: ''
+experiment_id: '936200400489777151'
+lifecycle_stage: active
+run_id: 68a3d9ea4f464a7c97c8b368c1cb01c9
+run_name: Bagging
+run_uuid: 68a3d9ea4f464a7c97c8b368c1cb01c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736453217867
+status: 3
+tags: []
+user_id: mohamed

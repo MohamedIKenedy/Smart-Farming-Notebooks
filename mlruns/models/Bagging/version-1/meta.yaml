@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736454745802
+current_stage: None
+description: ''
+last_updated_timestamp: 1736454745802
+name: Bagging
+run_id: 68a3d9ea4f464a7c97c8b368c1cb01c9
+run_link: ''
+source: file:///C:/Users/mohamed/Documents/MLflow/mlruns/936200400489777151/68a3d9ea4f464a7c97c8b368c1cb01c9/artifacts/Bagging
+status: READY
+status_message: null
+storage_location: file:///C:/Users/mohamed/Documents/MLflow/mlruns/936200400489777151/68a3d9ea4f464a7c97c8b368c1cb01c9/artifacts/Bagging
+user_id: null
+version: 1

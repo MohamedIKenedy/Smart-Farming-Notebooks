@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohamed/Documents/MLflow/mlruns/936200400489777151/c92d5ecae5304c03bd13c703691105f8/artifacts
+end_time: 1736453212553
+entry_point_name: ''
+experiment_id: '936200400489777151'
+lifecycle_stage: active
+run_id: c92d5ecae5304c03bd13c703691105f8
+run_name: Decision Tree
+run_uuid: c92d5ecae5304c03bd13c703691105f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736453206551
+status: 3
+tags: []
+user_id: mohamed

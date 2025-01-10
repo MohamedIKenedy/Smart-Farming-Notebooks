@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohamed/Documents/MLflow/mlruns/936200400489777151/a53e012d57f0443bbe0e70fda6e13d87/artifacts
+end_time: 1736453197436
+entry_point_name: ''
+experiment_id: '936200400489777151'
+lifecycle_stage: active
+run_id: a53e012d57f0443bbe0e70fda6e13d87
+run_name: Naive Bayes
+run_uuid: a53e012d57f0443bbe0e70fda6e13d87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736453192055
+status: 3
+tags: []
+user_id: mohamed

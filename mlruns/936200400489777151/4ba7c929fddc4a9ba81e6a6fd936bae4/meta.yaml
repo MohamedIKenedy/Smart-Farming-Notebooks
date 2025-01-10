@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohamed/Documents/MLflow/mlruns/936200400489777151/4ba7c929fddc4a9ba81e6a6fd936bae4/artifacts
+end_time: 1736453206538
+entry_point_name: ''
+experiment_id: '936200400489777151'
+lifecycle_stage: active
+run_id: 4ba7c929fddc4a9ba81e6a6fd936bae4
+run_name: K-Nearest Neighbors
+run_uuid: 4ba7c929fddc4a9ba81e6a6fd936bae4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736453201933
+status: 3
+tags: []
+user_id: mohamed
